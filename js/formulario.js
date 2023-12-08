@@ -3,6 +3,7 @@ function check() {
     let value = document.getElementById("who").value;
     if(value == "MDA"){
         document.getElementById("audio1").play()
+        alert("Congrats aparecio un testamento abajo del todo :o")
         let testa1 = document.getElementById("testamento");
         testa1.style.opacity = "1";
         testa1.style.display = "flex";
