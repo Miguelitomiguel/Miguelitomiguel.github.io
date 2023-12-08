@@ -2,6 +2,7 @@ function check() {
     event.preventDefault();
     let value = document.getElementById("who").value;
     if(value == "MDA"){
+        document.getElementById("audio1").play()
         let testa1 = document.getElementById("testamento");
         testa1.style.opacity = "1";
         testa1.style.display = "flex";
