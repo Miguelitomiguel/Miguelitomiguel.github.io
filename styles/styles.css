@@ -87,7 +87,7 @@ form{
 }
 form label{
     font-size: 18px;
-    font-family: cursive;
+    font-family: "Kalam", cursive;
     margin-top: 5px;
     color: #76796f;
 }
@@ -167,7 +167,7 @@ form label{
 }
 #textoRayado{
     margin-top: 20px;
-    font-family: cursive;
+    font-family: "Kalam", cursive;
     display: inline-block;
     text-decoration: underline #fff785 3px;
     line-height: 0px;
