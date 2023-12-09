@@ -39,7 +39,7 @@ function check() {
     <br>
     No es que no me importe, solo que es tu decisión. No quiero que te alejes, pero ¿qué le voy a hacer si ya decidiste? Nunca quise que esto pasara, por eso te iba a decir desde el comienzo que seamos solo amigos, y que yo me ponga de novio con la rubia. Pero me divertía más con vos que con la rubia, literal. A veces me decía cosas re raras o vivía cansada, etc.
 
-    Cuando te conocí, vi a alguien con baja autoestima, lastimado y que no había olvidado a su ex. Por eso nunca quise ilusionarme y por eso nunca me encariñé (en plan novio). No quise salir lastimado (vi el futuro :D), pero aún así
+    Me di cuenta desde el comienzo de que no habías olvidado a tu ex. Por eso nunca quise ilusionarme y por eso nunca me encariñé (en plan novio). No quise salir lastimado (vi el futuro :D), pero aún así
     <br>
     <br>
     Me quedo pensando que hubiera pasado si me esforzaba
