@@ -37,18 +37,16 @@ function check() {
     <br>
     Cuando lo vi, dije: 'WTF siempre se toma todo tan literal'. (Al final, será cierto que sos autista).
     <br>
-    No es que no me importe, solo que es tu decisión. No quiero que te vayas, pero ¿qué le voy a hacer si ya decidiste? Nunca quise que esto pasara, por eso te iba a decir desde el comienzo que seamos solo amigos, y que yo me ponga de novio con la rubia. Pero me divertía más con vos que con la rubia, literal. A veces me decía cosas re raras o vivía cansada, etc.
+    No es que no me importe, solo que es tu decisión. No quiero que te alejes, pero ¿qué le voy a hacer si ya decidiste? Nunca quise que esto pasara, por eso te iba a decir desde el comienzo que seamos solo amigos, y que yo me ponga de novio con la rubia. Pero me divertía más con vos que con la rubia, literal. A veces me decía cosas re raras o vivía cansada, etc.
 
     Cuando te conocí, vi a alguien con baja autoestima, lastimado y que no había olvidado a su ex. Por eso nunca quise ilusionarme y por eso nunca me encariñé (en plan novio). No quise salir lastimado (vi el futuro :D), pero aún así
     <br>
     <br>
     Me quedo pensando que hubiera pasado si me esforzaba
     <br>
-    Me hubieras dejado?
+    Seguiriamos juntos?
     <br>
-    Te hubieras quedado?
-    <br>
-    Capaz este es un buen final
+    Capaz este es un buen final, asi somos felices
     <br>
     Me voy a alejar así no arruinó lo que tanto buscaste (volver con tu ex)
     <br>
@@ -63,7 +61,10 @@ function check() {
     Y te dejo algo en la cuenta(google fotos o fotos) de negromiguel1111@gmail.com
     <br>
     <br>
-    Bye bye`
+    Desde otro país, con mucho dolor, digiero tu adiós
+    <br>
+    Vacío de rencor, y lleno de amor, te deseo lo mejor
+    `
 
     }
     else{
