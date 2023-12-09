@@ -50,7 +50,7 @@ function check() {
     <br>
     Me voy a alejar así no arruinó lo que tanto buscaste (volver con tu ex)
     <br>
-    Perdón por molestar
+    Perdón por molestar tenía que decirte lo que ahora te escribo
     <br>
     <br>
     PD: Me gustaría saber si te llegó el mensaje, kek, pero.. (esta parte está incompleta; el auto de la novela terminó con su vida después de ver que el nuevo EP (álbum pero con menos canciones) de MDA es mierda).
