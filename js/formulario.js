@@ -60,12 +60,13 @@ function check() {
     <br>
     Y te dejo algo en la cuenta(google fotos o fotos) de negromiguel1111@gmail.com
     <br>
+    Y espero que no llores(Xq todo se aprenderá con lágrimas?)
+    ¿Qué es lo que te alejó de mi?
+    <br>
     <br>
     Desde otro país, con mucho dolor, digiero tu adiós
     <br>
-    Vacío de rencor, y lleno de amor, te deseo lo mejor
-    `
-
+    Vacío de rencor, y lleno de amor, te deseo lo mejor`
     }
     else{
         alert("Es mi cantante favorito :c y empieza con M")
