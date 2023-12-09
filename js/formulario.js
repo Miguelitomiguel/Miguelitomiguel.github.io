@@ -64,9 +64,9 @@ function check() {
     ¿Qué es lo que te alejó de mi?
     <br>
     <br>
-    Desde otro país, con mucho dolor, digiero tu adiós
+    Lo pasamos bien :D
     <br>
-    Vacío de rencor, y lleno de amor, te deseo lo mejor`
+    Desde otro país, digiero tu adiós
     }
     else{
         alert("Es mi cantante favorito :c y empieza con M")
