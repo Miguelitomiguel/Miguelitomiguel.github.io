@@ -66,7 +66,7 @@ function check() {
     <br>
     Lo pasamos bien :D
     <br>
-    Desde otro país, digiero tu adiós
+    Desde otro país, digiero tu adiós`
     }
     else{
         alert("Es mi cantante favorito :c y empieza con M")
